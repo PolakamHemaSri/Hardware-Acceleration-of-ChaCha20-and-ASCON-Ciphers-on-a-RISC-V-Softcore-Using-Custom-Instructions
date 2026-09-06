@@ -1,0 +1,24 @@
+# RISC-V toolchain
+Tool chain/
+
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.cache/
+*.runs/
+*.hw/
+*.sim/
+*.ip_user_files/
+*.Xil/
+
+# Compiler/build output
+build/
+out/
+*.elf
+*.o
+*.a
+
+# Operating system files
+Thumbs.db
+.DS_Store
