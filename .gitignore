@@ -22,3 +22,6 @@ out/
 # Operating system files
 Thumbs.db
 .DS_Store
+
+# Reference repository
+Crpto/RISCV-CVA6-Optimized-Crypto/
